@@ -2,10 +2,9 @@
 
 An AI-powered finance dashboard that helps users manage income and expenses effortlessly.
 Users can track spending across multiple accounts, visualize data with charts, and even scan receipts using AI to auto-fill expense details.
-<img width="1470" alt="Home" src="https://drive.google.com/file/d/13AMdwVSn4w3EJr7hZ8znQYV5xHHRzuTg/view?usp=sharing">
-<img width="1470" alt="Dashbord" src="https://drive.google.com/file/d/1QyfoVjQNplCxBye2b0n9OQOwOQqjU7Jl/view?usp=sharing">
 
-https://drive.google.com/file/d/1QyfoVjQNplCxBye2b0n9OQOwOQqjU7Jl/view?usp=sharing
+Home view: https://drive.google.com/file/d/13AMdwVSn4w3EJr7hZ8znQYV5xHHRzuTg/view?usp=sharing
+Dashbord view: https://drive.google.com/file/d/1QyfoVjQNplCxBye2b0n9OQOwOQqjU7Jl/view?usp=sharing
 
 ⸻
 
